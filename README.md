@@ -8,3 +8,7 @@
 - Worked on the basic project structure
 - Created the base HTML file
 - Added the initial page layout
+## Day 3 – 2026-01-17
+- Completed the full project code smart billing
+- Connected HTML, CSS, and JavaScript
+- Verified complete functionality
