@@ -4,3 +4,7 @@
 - Started my GitHub daily consistency journey
 - Learned what a contribution graph is
 - Created my first public repositories 
+## Day 2 – 2026-01-16
+- Worked on the basic project structure
+- Created the base HTML file
+- Added the initial page layout
