@@ -22,3 +22,9 @@ Organized code into a normal repository format
 Added basic report/comments to explain the code flow
 Cleaned files for better readability and maintenance
 Prepared the project for future feature updates
+## Day 6 - 2026-01-20
+Reviewed the existing Smart Billing codebase
+Simplified logic and removed unnecessary complexity
+Improved folder structure for better readability
+Added small comments to make the code easier to understand later
+Checked everything runs smoothly without errors
