@@ -28,3 +28,11 @@ Simplified logic and removed unnecessary complexity
 Improved folder structure for better readability
 Added small comments to make the code easier to understand later
 Checked everything runs smoothly without errors
+## Day 7 - 2026-01-21
+Defined the purpose of the AI (what it should do and who it helps)
+Decided the core features for the first version
+Chose the tech stack for AI logic (language + tools)
+Designed a basic flow:
+user input → analysis → response
+Began writing initial AI logic / prompts
+Planned how this AI will connect with your Smart Billing project
