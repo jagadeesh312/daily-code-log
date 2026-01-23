@@ -36,3 +36,13 @@ Designed a basic flow:
 user input → analysis → response
 Began writing initial AI logic / prompts
 Planned how this AI will connect with your Smart Billing project
+## Day 8 - 2026-01-22
+Refined the AI logic flow so questions lead to cleaner, clearer answers.
+Simplified parts of the code for readability and reuse.
+Reviewed earlier days’ work to remove small bugs and confusion points.
+Thought about how your personal AI should think, not just respond.
+## Day 9 - 2026-01-23
+Continued shaping your personal AI project, focusing on clarity and structure.
+Refined logic flow so questions → analysis → answers feel more natural.
+Cleaned up earlier code and removed unnecessary parts to keep things light.
+Thought about how the AI should think, not just what it should say. That’s a big leap.
