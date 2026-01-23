@@ -1,4 +1,4 @@
-# Daily Code Log 🚀
+# Daily Code 🚀
 
 ## Day 1 – 2026-01-15
 - Started my GitHub daily consistency journey
