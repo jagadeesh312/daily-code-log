@@ -51,3 +51,8 @@ Reviewed the existing project structure and cleaned up small inconsistencies
 Refined logic and naming to keep the code readable and future-proof
 Tested previous features to ensure everything still behaves as expected
 Mentally planned the next upgrade path instead of rushing into random code
+## Day 11 - 2026-01-25
+Cleaned and organized project structure so future features don’t trip over yesterday’s code.
+Tested HTML, CSS, and JS flow together, especially how things behave in preview vs after publish.
+Refined API usage logic from earlier experiments, fewer guesses, more certainty.
+Noted down small bugs and UI quirks instead of ignoring them for “later”.
