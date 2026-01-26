@@ -56,3 +56,7 @@ Cleaned and organized project structure so future features don’t trip over yes
 Tested HTML, CSS, and JS flow together, especially how things behave in preview vs after publish.
 Refined API usage logic from earlier experiments, fewer guesses, more certainty.
 Noted down small bugs and UI quirks instead of ignoring them for “later”.
+## Day 12 - 2026-01-26
+Used Android Studio to start building a voice-based caller app
+Explored how voice input can trigger call actions
+Set up the basic project structure (activities, permissions)
