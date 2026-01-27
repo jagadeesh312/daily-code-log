@@ -60,3 +60,7 @@ Noted down small bugs and UI quirks instead of ignoring them for “later”.
 Used Android Studio to start building a voice-based caller app
 Explored how voice input can trigger call actions
 Set up the basic project structure (activities, permissions)
+## Day 13 - 2026-01-27
+Today I continued improving my ongoing projects and focused on learning through hands-on practice.
+I reviewed previous code, fixed small issues, and explored ways to improve structure and usability.
+Even small progress today helped strengthen my understanding and kept the consistency going.
