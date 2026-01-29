@@ -81,3 +81,9 @@ Even small steps matter. Today was about staying consistent and preparing for up
 ## Takeaway
 Consistency > Perfection  
 Showing up every day builds discipline and skill.
+## Day 15 - 2026-01-29
+Reviewed the project structure and cleaned up folders and files
+Refactored small parts of HTML, CSS, and JavaScript for better readability
+Tested existing features and fixed minor bugs
+Thought through next features and noted what to build next
+Committed changes to keep the GitHub streak glowing green 🌱
