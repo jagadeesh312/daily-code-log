@@ -93,3 +93,9 @@ I cleaned up the existing structure, checked the code flow, and fixed small issu
 I also spent time understanding how each part of the project connects, which helped me plan the next development steps more clearly.
 Although no major features were added today, this work strengthens the foundation for upcoming updates.
 Day 16 completed with consistent progress.
+## Day 17 - 2026-01-31
+Refactored existing code for better readability and structure
+Fixed small bugs discovered during testing
+Improved project organization (folders, naming, cleanup)
+Added short comments to make future updates smoother
+Reviewed previous days’ work to ensure everything connects cleanly
