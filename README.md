@@ -99,3 +99,8 @@ Fixed small bugs discovered during testing
 Improved project organization (folders, naming, cleanup)
 Added short comments to make future updates smoother
 Reviewed previous days’ work to ensure everything connects cleanly
+## Day 18 - 2026-02-1
+Reviewed existing code and cleaned up small logic gaps
+Refactored functions for better readability and future scalability
+Tested previous features to ensure stability before moving forward
+Noted ideas for optimization and next feature integration
