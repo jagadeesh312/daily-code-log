@@ -1,4 +1,4 @@
-# Daily Code 🚀
+# Daily Code 
 
 ## Day 1 – 2026-01-15
 - Started my GitHub daily consistency journey
@@ -64,11 +64,7 @@ Set up the basic project structure (activities, permissions)
 Today I continued improving my ongoing projects and focused on learning through hands-on practice.
 I reviewed previous code, fixed small issues, and explored ways to improve structure and usability.
 Even small progress today helped strengthen my understanding and kept the consistency going.
-# Day 14 – GitHub 365 Challenge 🚀
-
-**Date:** Day 14  
-**Focus:** Consistency & Learning  
-
+# Day 14 
 ## What I did today
 - Continued working on my project
 - Reviewed previous code and structure
