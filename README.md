@@ -142,3 +142,8 @@ Tested existing features to ensure stability
 ## Day 27 - 2026-02-10
 - Debugged code and fixed logical errors
 - Analyzed algorithms for efficiency and optimization
+## Day 28 - 2026-02-11
+Improving project structure and cleaning unused files
+Refactoring small parts of my existing code for better readability
+Testing features and fixing minor bugs
+Planning next feature improvement
