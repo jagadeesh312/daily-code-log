@@ -204,3 +204,9 @@ Separated HTML, CSS, and JS into clean modules
 Improved UI alignment and responsiveness
 Fixed minor bugs in message handling logic
 Tested the application on mobile and desktop view
+## Day 35 – 2026-02-18
+- Improved chat UI structure and responsiveness
+- Refined glass-style message input design
+- Optimized JavaScript functions for better performance
+- Fixed minor UI alignment issues
+- Cleaned project files and removed unused code
