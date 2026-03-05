@@ -210,3 +210,10 @@ Tested the application on mobile and desktop view
 - Optimized JavaScript functions for better performance
 - Fixed minor UI alignment issues
 - Cleaned project files and removed unused code
+Day 1 – Restart of GitHub Journey
+
+Today I restarted my GitHub daily coding journey with a clear goal of maintaining consistency and improving my development skills. I organized my workspace and reviewed my previous projects to understand what improvements could be made.
+
+I planned to work regularly on practical projects such as SmartBilling, Network Chat Application, and Students Portal. These projects will help me practice web development using HTML, CSS, JavaScript, Firebase, and Android development tools.
+
+I also prepared my development environment, checked the required software, and created a clear roadmap for the upcoming days. This restart marks the beginning of a more structured and disciplined learning process where I aim to build real projects and document my progress daily on GitHub. 🚀
