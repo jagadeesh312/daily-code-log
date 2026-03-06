@@ -217,3 +217,17 @@ Today I restarted my GitHub daily coding journey with a clear goal of maintainin
 I planned to work regularly on practical projects such as SmartBilling, Network Chat Application, and Students Portal. These projects will help me practice web development using HTML, CSS, JavaScript, Firebase, and Android development tools.
 
 I also prepared my development environment, checked the required software, and created a clear roadmap for the upcoming days. This restart marks the beginning of a more structured and disciplined learning process where I aim to build real projects and document my progress daily on GitHub. 🚀
+# Daily Code Log
+
+## Day 2 – 2026-01-16
+
+Today I continued setting up the foundation for my project.  
+I organized the repository structure and prepared the base files needed for development.
+
+Tasks completed:
+- Created the basic project folder structure
+- Added the main HTML file
+- Designed the initial page layout
+- Prepared the environment for upcoming features
+
+This step helped establish a clear starting point for building the application. The focus today was mainly on structure and preparation before implementing the main functionality.
