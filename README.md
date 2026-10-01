@@ -112,6 +112,36 @@ Author
 4.  Integration: Connected frontend with backend and database.
 
 *Testing Content (add in `TESTING.md`):*
+
+
+# Smart Billing AI System
+
+## Core Features
+
+### 1. Product Management
+- Add and edit product details
+- Manage prices and stock quantities
+
+### 2. Smart Billing
+- Generate customer bills
+- Calculate GST
+- Create printable invoices
+
+### 3. AI Assistant
+- Support voice and text product selection
+- Help users identify products from their requests
+
+### 4. Payment
+- Display a QR code for UPI payments
+- Track payment status when integrated
+
+### 5. Sales Dashboard
+- View billing history
+- Monitor sales totals
+
+## Development Status
+Project in progress. Features will be
+implemented and tested step by step.
 Test Case ID	Feature	Test Description	Expected Result	Status
 TC_01	Login	Login with valid credentials	Redirect to dashboard	Pass
 TC_02	Billing	Scan product barcode	Product added to cart	Pass
