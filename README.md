@@ -142,6 +142,43 @@ Author
 ## Development Status
 Project in progress. Features will be
 implemented and tested step by step.
+
+# Smart Billing AI System - Roadmap
+
+## ✅ Completed
+- [x] Project repository created
+- [x] Project documentation started
+- [x] Feature list documented
+- [x] README created
+
+## 🚧 In Progress
+- [ ] Design billing dashboard
+- [ ] Create product management system
+- [ ] Create employee login
+- [ ] Implement bill generation
+- [ ] Add GST calculation
+- [ ] Add printable invoice
+- [ ] Add QR payment support
+
+## 🤖 AI Features
+- [ ] AI text product selection
+- [ ] Voice-based billing
+- [ ] Product recognition
+- [ ] Multilingual assistant
+- [ ] AI billing assistance
+
+## 🔥 Future Improvements
+- [ ] Sales analytics
+- [ ] Inventory alerts
+- [ ] Customer management
+- [ ] Mobile-friendly interface
+- [ ] Admin dashboard
+- [ ] Advanced reports
+
+## 🚀 Goal
+
+Build a simple, fast and intelligent billing
+system for small and medium-sized retail shops.
 Test Case ID	Feature	Test Description	Expected Result	Status
 TC_01	Login	Login with valid credentials	Redirect to dashboard	Pass
 TC_02	Billing	Scan product barcode	Product added to cart	Pass
