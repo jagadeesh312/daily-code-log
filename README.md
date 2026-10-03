@@ -185,3 +185,190 @@ TC_02	Billing	Scan product barcode	Product added to cart	Pass
 TC_03	Billing	Calculate total with GST	Correct total shown	Pass
 TC_04	Inventory	Bill product with stock 1	Stock becomes 0 + alert	Pass
 TC_05	Invoice	Click Generate Bill	PDF invoice downloaded	Pass
+
+
+
+# 🧾 Smart Billing AI System
+
+> An intelligent, modern billing platform designed to simplify retail billing, product management, payments, and sales operations.
+
+## 🚀 About the Project
+
+**Smart Billing AI System** is a web-based billing solution designed for small and medium-sized retail businesses.
+
+The system aims to combine traditional billing features with AI-powered assistance, making product selection, bill generation, payment, and sales management faster and easier.
+
+## ✨ Key Features
+
+### 🧾 Smart Billing
+
+* Create customer bills quickly
+* Automatic bill calculations
+* GST calculation
+* Printable invoices
+* Bill history
+
+### 📦 Product Management
+
+* Add new products
+* Update product information
+* Manage prices
+* Track available stock
+* Search products quickly
+
+### 🤖 AI Assistant
+
+* AI-powered product selection
+* Text-based billing assistance
+* Voice-based product selection
+* Natural-language commands
+* Multilingual AI assistance
+
+### 💳 Digital Payments
+
+* UPI QR payment support
+* Payment information on invoices
+* Digital-friendly billing workflow
+
+### 📊 Sales Management
+
+* Track daily sales
+* View billing history
+* Monitor revenue
+* Generate useful sales information
+
+### 👥 User Management
+
+* Admin login
+* Employee login
+* Role-based access
+* Secure authentication
+
+## 🖥️ Dashboard
+
+The planned system includes:
+
+* Admin Dashboard
+* Employee Billing Dashboard
+* Product Management
+* Sales Management
+* Customer Management
+* AI Assistant
+* Settings
+
+## 🛠️ Technologies
+
+| Technology        | Purpose                              |
+| ----------------- | ------------------------------------ |
+| HTML              | Application structure                |
+| CSS               | User interface and responsive design |
+| JavaScript        | Application logic                    |
+| Firebase          | Authentication and database          |
+| Google Gemini API | AI features                          |
+| QR Code           | Digital payment support              |
+
+## 📱 Responsive Design
+
+The application is designed to work across:
+
+* 💻 Desktop
+* 💻 Laptop
+* 📱 Mobile
+* 📟 Tablet
+
+## 🔐 Security
+
+Security is an important part of the project.
+
+Planned security features include:
+
+* Firebase Authentication
+* Role-based access
+* Secure database rules
+* Protected application data
+* No API keys committed to the repository
+
+> **Important:** Never upload Firebase private keys, Gemini API keys, passwords, or other secrets to GitHub.
+
+## 📂 Project Structure
+
+```text
+Smart-Billing-AI/
+│
+├── index.html
+├── style.css
+├── features.md
+├── ROADMAP.md
+└── README.md
+```
+
+## 🗺️ Development Roadmap
+
+### Phase 1 · Foundation
+
+* [x] Create GitHub repository
+* [x] Create project documentation
+* [x] Create project roadmap
+* [x] Create initial login UI
+
+### Phase 2 · Authentication
+
+* [ ] Firebase Authentication
+* [ ] Admin login
+* [ ] Employee login
+* [ ] User session management
+
+### Phase 3 · Billing
+
+* [ ] Product database
+* [ ] Product search
+* [ ] Shopping cart
+* [ ] GST calculation
+* [ ] Invoice generation
+
+### Phase 4 · Payments
+
+* [ ] UPI QR generation
+* [ ] Payment workflow
+* [ ] Payment records
+
+### Phase 5 · AI
+
+* [ ] Gemini API integration
+* [ ] AI product selection
+* [ ] Voice input
+* [ ] Multilingual support
+
+### Phase 6 · Analytics
+
+* [ ] Sales dashboard
+* [ ] Revenue tracking
+* [ ] Inventory monitoring
+* [ ] Reports
+
+## 📌 Current Status
+
+**Development in progress 🚧**
+
+The project is currently being developed step by step, starting with the user interface and project foundation.
+
+## 🎯 Project Goal
+
+The goal of Smart Billing AI is to create a simple, intelligent, and accessible billing system that reduces manual work for retail businesses.
+
+## 👨‍💻 Developer
+
+**Jagadeesh**
+
+Computer Science Diploma Student
+
+## 📄 License
+
+This project is currently under development.
+
+License information will be added in a future release.
+
+---
+
+⭐ If you find this project interesting, consider following its development.
+
