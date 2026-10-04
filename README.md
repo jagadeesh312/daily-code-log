@@ -372,3 +372,226 @@ License information will be added in a future release.
 
 ⭐ If you find this project interesting, consider following its development.
 
+
+````markdown
+# 🧾 Smart Billing AI System
+
+A modern AI-powered billing system designed to make retail billing faster, smarter, and easier to manage.
+
+![Status](https://img.shields.io/badge/Status-In%20Development-orange)
+![Platform](https://img.shields.io/badge/Platform-Web-blue)
+![License](https://img.shields.io/badge/License-Educational-green)
+
+---
+
+## 🚀 About
+
+**Smart Billing AI System** is a web-based billing application for retail shops.
+
+The project combines a simple billing interface with product management, GST calculation, digital payments, sales tracking, and AI-assisted billing features.
+
+The main goal is to reduce manual work and provide a faster billing experience for shop owners and employees.
+
+---
+
+## ✨ Features
+
+### 🧾 Billing
+- Create customer bills
+- Add multiple products
+- Calculate total amount
+- GST calculation
+- Generate printable invoices
+
+### 📦 Product Management
+- Add products
+- Edit product information
+- Manage product prices
+- Track stock
+- Search products
+
+### 🤖 AI Assistant
+- AI-powered product selection
+- Text-based commands
+- Voice-based billing assistance
+- Natural-language product requests
+- Multilingual support
+
+### 💳 Payments
+- UPI QR payment support
+- Digital payment workflow
+- Payment information in billing records
+
+### 📊 Sales
+- Billing history
+- Daily sales tracking
+- Revenue information
+- Sales reports
+
+---
+
+## 🎨 Current UI
+
+The current project includes a modern glass-style login interface designed for the Smart Billing AI System.
+
+The interface is designed to be:
+
+- Responsive
+- Mobile friendly
+- Modern
+- Easy to use
+- Suitable for retail environments
+
+---
+
+## 🛠️ Technologies
+
+```text
+HTML
+CSS
+JavaScript
+Firebase
+Google Gemini API
+QR Code
+````
+
+---
+
+## 📂 Project Structure
+
+```text
+Smart-Billing-AI/
+│
+├── index.html
+├── style.css
+├── README.md
+├── features.md
+└── ROADMAP.md
+```
+
+---
+
+## 🗺️ Roadmap
+
+### Phase 1 - Foundation
+
+* [x] Create GitHub repository
+* [x] Create README
+* [x] Create feature documentation
+* [x] Create project roadmap
+* [x] Create login UI
+
+### Phase 2 - Authentication
+
+* [ ] Firebase Authentication
+* [ ] Admin login
+* [ ] Employee login
+* [ ] User session management
+
+### Phase 3 - Billing
+
+* [ ] Product database
+* [ ] Product search
+* [ ] Shopping cart
+* [ ] GST calculation
+* [ ] Invoice generation
+
+### Phase 4 - Payments
+
+* [ ] UPI QR generation
+* [ ] Payment records
+
+### Phase 5 - AI
+
+* [ ] Gemini API integration
+* [ ] AI product selection
+* [ ] Voice input
+* [ ] Multilingual AI assistant
+
+### Phase 6 - Analytics
+
+* [ ] Sales dashboard
+* [ ] Revenue tracking
+* [ ] Inventory monitoring
+* [ ] Reports
+
+---
+
+## 🔐 Security
+
+Security will be implemented using Firebase Authentication and secure database rules.
+
+### Important
+
+Never upload the following to GitHub:
+
+```text
+API keys
+Firebase private keys
+Passwords
+Service account credentials
+.env files containing secrets
+```
+
+Use environment variables or secure configuration instead.
+
+---
+
+## 📱 Supported Devices
+
+The application is being designed for:
+
+* 💻 Desktop
+* 💻 Laptop
+* 📱 Mobile
+* 📟 Tablet
+
+---
+
+## 🎯 Project Goal
+
+Build a simple and intelligent billing platform that helps retail businesses:
+
+* Save time
+* Reduce billing errors
+* Manage products
+* Track sales
+* Accept digital payments
+* Use AI to simplify billing
+
+---
+
+## 👨‍💻 Developer
+
+**Jagadeesh**
+
+Computer Science Student
+
+---
+
+## 📌 Project Status
+
+```text
+🚧 Currently in Development
+```
+
+The project is being developed step by step with new features added regularly.
+
+---
+
+⭐ **Smart Billing AI System**
+
+*Building smarter billing for modern retail.*
+
+````
+
+### 📱 Today's GitHub commit
+
+After replacing the README, commit it with:
+
+```text
+docs: update Smart Billing project README
+````
+
+That gives you a clean **Day 7 contribution** without pretending features are already implemented when they're still on the roadmap. 🚀
+
