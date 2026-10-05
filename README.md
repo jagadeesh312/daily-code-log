@@ -595,3 +595,78 @@ docs: update Smart Billing project README
 
 That gives you a clean **Day 7 contribution** without pretending features are already implemented when they're still on the roadmap. 🚀
 
+
+# 📅 Daily Code Log
+
+> My daily coding consistency journey, progress tracker, and development log.
+
+## 🚀 About
+
+This repository tracks my daily coding journey.
+
+The goal is simple:
+
+**Code every day. Learn every day. Build every day.**
+
+I use this repository to record what I worked on, what I learned, and what I completed each day.
+
+---
+
+## 🎯 Goals
+
+- 💻 Code consistently every day
+- 📚 Learn new technologies
+- 🛠️ Build real-world projects
+- 🧠 Improve problem-solving skills
+- 🚀 Develop better development habits
+- 📈 Maintain a consistent GitHub contribution history
+
+---
+
+## 📊 Daily Progress
+
+| Day | Date | Task | Status |
+|---|---|---|---|
+| Day 1 | Sep 30, 2026 | Smart Billing project setup | ✅ |
+| Day 2 | Oct 1, 2026 | Feature documentation | ✅ |
+| Day 3 | Oct 2, 2026 | Project roadmap | ✅ |
+| Day 4 | Oct 3, 2026 | UI development | ✅ |
+| Day 5 | Oct 4, 2026 | README & documentation | ✅ |
+| Day 6 | Oct 5, 2026 | Project improvement | 🚧 |
+
+> The log will be updated every day.
+
+---
+
+## 🧩 Current Main Project
+
+### 🧾 Smart Billing AI System
+
+A modern billing system designed for retail businesses.
+
+Main areas:
+
+- 🧾 Smart billing
+- 📦 Product management
+- 🤖 AI assistant
+- 💳 Digital payments
+- 📊 Sales management
+- 🔐 Authentication
+
+Repository:
+
+`smart-billing-system`
+
+---
+
+## 🛠️ Technologies I'm Learning
+
+```text
+HTML
+CSS
+JavaScript
+Firebase
+Git
+GitHub
+AI APIs
+Responsive Web Design
