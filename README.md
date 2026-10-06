@@ -663,6 +663,82 @@ Repository:
 
 ```text
 HTML
+
+
+# 🚀 Daily Code Log
+
+Welcome to my **Daily Code Log** repository!
+
+This repository is my personal coding consistency journey where I document what I learn, build, practice, and improve every day.
+
+## 🎯 Goal
+
+My goal is simple:
+
+> **Code every day. Learn every day. Build every day.**
+
+I am using this repository to maintain my GitHub consistency and track my progress as a Computer Science student and developer.
+
+## 📅 Daily Progress
+
+| Day | Focus | Status |
+|-----|-------|--------|
+| Day 1 | Smart Billing AI System setup | ✅ |
+| Day 2 | Project planning & documentation | ✅ |
+| Day 3 | Smart Billing features | ✅ |
+| Day 4 | README & project documentation | ✅ |
+| Day 5 | Development & improvements | 🔄 |
+
+## 🛠️ Technologies I Practice
+
+- HTML
+- CSS
+- JavaScript
+- Firebase
+- Git & GitHub
+- AI APIs
+- Python
+- React
+- Android Development
+- Web Development
+
+## 📌 What I Track
+
+Each daily entry may include:
+
+- 📚 What I learned
+- 💻 What I coded
+- 🧩 Problems I solved
+- 🛠️ Features I added
+- 🐛 Bugs I fixed
+- 💡 New ideas
+- 📈 What I plan to do next
+
+## 🔥 Current Main Project
+
+### Smart Billing AI System
+
+A smart billing platform designed for retail shops with:
+
+- 🤖 AI-powered product selection
+- 🎙️ Voice assistant
+- 🧾 GST billing
+- 💳 UPI QR payments
+- 👨‍💼 Admin & employee management
+- 🔥 Firebase integration
+- 🌐 Modern responsive interface
+
+## 📈 My Journey
+
+This repository is not about writing perfect code every day.
+
+It is about **showing up, learning, and improving consistently.**
+
+---
+
+⭐ Follow my journey and watch the progress grow!
+
+**Keep Coding. Keep Building. Keep Learning. 🚀**
 CSS
 JavaScript
 Firebase
