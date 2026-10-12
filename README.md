@@ -924,3 +924,18 @@ To maintain a daily record of my coding activities and improve my project docume
 I reviewed my GitHub projects and focused on documenting my development activities. I will continue updating this log to track my learning and project progress.
 
 **Status:** Documentation and profile review
+# 📘 Daily Code Log
+
+A personal log of what I learn and build each day while improving my coding skills.
+
+## 🎯 Purpose
+To stay consistent with coding, track my progress, and keep a record of
+the concepts and small projects I work on every day.
+
+## 📅 What's Inside
+- Daily practice code and small programs
+- Notes on new concepts I learn
+- Experiments with HTML, CSS, and JavaScript
+- Bug fixes and lessons learned
+
+## 📂 Structure
