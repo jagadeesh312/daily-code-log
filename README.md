@@ -977,3 +977,36 @@ Continue developing my technical skills and organize my existing projects for fu
 Today, I focused on developer profile improvement, project organization, and planning my next development tasks.
 
 **Status:** Learning, planning, and project organization.
+
+
+# 📅 Daily Code Log
+
+A record of what I learn and build every day, to keep my coding habit consistent.
+
+## 🎯 Goal
+Commit something useful **every day**: practice problems, small projects, or notes.
+
+## 📂 Structure
+```
+daily-code-log/
+├── day-01/
+├── day-02/
+├── notes/
+└── README.md
+```
+
+## 📝 Log Format
+| Date       | Topic Learned | What I Built | Time Spent |
+|------------|---------------|--------------|------------|
+| 2026-10-16 | Git basics    | Sample repo  | 1 hr       |
+
+## 📈 Progress
+- ✅ Consistent commits
+- ✅ Learning HTML, CSS, JavaScript
+- 🔄 Currently building: smart-billing-system
+
+## 💡 Learnings
+Small steps every day add up to big progress.
+
+## 👤 Author
+**Jagadeesh** – [@jagadeesh312](https://github.com/jagadeesh312)
