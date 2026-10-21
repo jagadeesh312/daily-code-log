@@ -1055,3 +1055,40 @@ Stay consistent with coding, improve my development skills, and keep building my
 
 **#100DaysOfCode #GitHub #WebDevelopment #JavaScript #AI #CodingJourney**
 
+
+Each folder holds that day's code, notes, or experiments.
+
+## 📝 Daily Log
+
+| Day | Date | Topic | What I Learned |
+|-----|------|-------|----------------|
+| 001 | 2026-10-21 | Example topic | Short note about what I did |
+| 002 | | | |
+| 003 | | | |
+
+## 🚀 How I Use This Repo
+
+1. Pick a small task or topic each day
+2. Write code or notes in a new `day-XXX` folder
+3. Add a row to the log table above
+4. Commit and push:
+```bash
+   git add .
+   git commit -m "Day XXX: topic"
+   git push
+```
+
+## 📈 Goals
+
+- [ ] Code every day for 30 days
+- [ ] Build 3 mini projects
+- [ ] Improve JavaScript and TypeScript skills
+- [ ] Learn Git and GitHub workflows better
+
+## 🤝 Connect
+
+- GitHub: [@jagadeesh312](https://github.com/jagadeesh312)
+
+---
+
+⭐ If you like this repo, give it a star!
